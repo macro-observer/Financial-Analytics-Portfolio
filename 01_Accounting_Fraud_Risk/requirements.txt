@@ -1,0 +1,8 @@
+feedparser
+python-dotenv
+aiohttp
+beautifulsoup4
+pandas
+nest_asyncio
+lxml
+graphviz

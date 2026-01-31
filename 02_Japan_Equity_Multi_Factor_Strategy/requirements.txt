@@ -1,0 +1,14 @@
+requests
+pandas
+numpy
+yfinance
+aiohttp
+japanize-matplotlib
+matplotlib
+seaborn
+lxml
+tqdm
+nest_asyncio
+xlrd
+openpyxl
+python-dotenv
