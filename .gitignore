@@ -214,3 +214,6 @@ __marimo__/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Generated data
+*.csv
