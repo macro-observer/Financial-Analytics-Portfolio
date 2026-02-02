@@ -45,6 +45,7 @@
 ### Certifications
 *   公認会計士 (CPA - Japan)
 *   統計検定 2級 (準1級学習中)
+*   JDLA G検定 (Deep Learning for Generalist)
 *   ビジネス実務法務検定 1級
 
 ---
