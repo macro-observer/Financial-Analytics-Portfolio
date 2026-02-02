@@ -164,7 +164,7 @@ Yartseva (2025) の "Twin Engines" 仮説を日本市場へ適応（Localize）�
 
 公認会計士（Certified Public Accountant）として監査法人にて法定監査業務に従事。監査の視点と、データサイエンスを融合させた**クオンツメンタル（Quantamental）** 投資戦略の分析を行っています。
 *   **Focus:** Accounting Forensics, Financial Data Analysis (J-GAAP/IFRS), Auditing.
-*   **Certifications:** CPA (Japan), Japan Statistical Society Certificate Grade 2, The Japan Business Law Examination Grade 1.
+*   **Certifications:** CPA (Japan), Japan Statistical Society Certificate Grade 2, JDLA Deep Learning for GENERAL (AI/Deep Learning), The Japan Business Law Examination Grade 1.
 *   **Tech Stack:** Python (pandas, numpy, scipy, lxml), XBRL Parsing, Async I/O (AI-Augmented).
 
 **📚 References**
